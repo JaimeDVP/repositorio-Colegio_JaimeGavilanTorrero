@@ -1,0 +1,52 @@
+
+
+Politikea es una aplicación que se originó con el fin de hacer que todo el mundo 
+que pueda expresarse libremente desde casa y cuando lo desee oportuno.
+
+El concepto de la aplicación es situar en un espectro político creado a base de unas 
+formulas matematicas al usuario con respecto a su ideoligia reflejada en las contestaciones a los cuestionarios.
+
+
+Tambien el usuario puede generar sus propias proclamas para saber si los otros usuarios de la aplicación ya sean 
+sus amigos o no, voten a favor en contra o indiferente.
+
+Los usuarios cabe destacar que pueden interactuar con otros usuarios estableciendo una amistad. También pueden 
+participar en un debate semanal en el que se propone una politica y pueden comentarla.
+
+=============================================================================================
+				BASE DE DATOS
+=============================================================================================
+
+La base de datos utilizada en la aplicación es Postgreslql, la cual se trabaja por el gestor de DBeaver. 
+Cambios controlados por Hibernate, gestion de usuarios de la que se encarga Liquibase  para aprobar los cambios. 
+
+=============================================================================================
+				PROGRAMACION
+=============================================================================================
+La aplicación está hecha con java y con SpringBoot. Maven para gestionar las dependencias. Estructura de software 
+hexagonal para la mejor separación de la lógica de negocio de la aplicación.
+
+=============================================================================================
+				LENGUAJES DE MARCAS
+=============================================================================================
+En la aplicación he pertenecido al back. Por lo que de la aplicación en sí he tocado muy poco del front.
+Pero en una aplicación en paralelo que estaba haciendo he tocado mucho el fron con javascript. Gestión de usuarios pacientes y citas.
+
+=============================================================================================
+				SOSTENIBILIDAD
+=============================================================================================
+Teletrabajar es lo más sostenible del mundo ya que se evita la contaminación al tener que ir al trabajo. 
+Aún teniendo una oficina en el centro de Málaga se quedan los trabajadores teletrabajando para no favorecer a la contaminación.
+
+=============================================================================================
+				DIGITALIZACIÓN
+=============================================================================================
+Se ha intentado crear un cambio en la gestión de las tareas que seguía la empresa pero no se ha hecho ya
+que lo hacían de una manera eficiente mediante Taiga
+
+=============================================================================================
+				ENTORNOS DE DESARROLLO
+=============================================================================================
+
+El entorno de desarrollo que utilizamos es IntelliJ Idea Community Edition. Github para el control de cambios 
+realizados en la aplicación. Explicación de cómo realizan en control de cambios. 
